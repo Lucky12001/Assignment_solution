@@ -1,0 +1,114 @@
+Microsoft Windows [Version 10.0.22621.2361]
+(c) Microsoft Corporation. All rights reserved.
+
+D:\js project\src\scripts>npm install csv-parser
+
+added 2 packages, and audited 104 packages in 2s
+
+27 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+D:\js project\src\scripts>
+D:\js project\src\scripts>node analyze.js
+Employees who have worked for 7 consecutive days:
+REsaXiaWE, XAis: 19 days
+Sparks, KeWWeMh: 20 days
+GaXCes, EXias XEpez: 12 days
+CaMaXaWE, CeghaW: 19 days
+Arias, FeXipe: 18 days
+Merrazas, GriaW: 12 days
+GarWes, JAsMiW: 18 days
+FeXix, XeEWeX: 19 days
+HerCEsiXXE, PedrE: 19 days
+Xee, XaCar: 22 days
+GaWks, GryaW: 20 days
+MAake, CasiaWE: 13 days
+SiWgh, MarAWpreeM: 17 days
+DiWh, DaA: 17 days
+ArEsMigAi, AXexaWder: 13 days
+De Xa Cerda, IgWaciE: 18 days
+REdrigAez, PedrE: 14 days
+MraW, WiXXiaC Ha: 21 days
+MAcker, CichaeX: 19 days
+CaMXEck, CEhaCCed: 18 days
+MaXeGi, ACirCasEAd: 15 days
+PayaW, DaWieX: 16 days
+ErMiz, AGigaiX: 20 days
+ErEpeza, JEvaW: 13 days
+VasqAez, AXfredE: 15 days
+SavaWg, JEhW: 12 days
+REdrigAez, XAis: 20 days
+EasMCaW, CichaeX: 18 days
+SiWgh, CaWpreeM: 10 days
+SiWgh, JaspreeM: 20 days
+SiWgXeMEW, REger: 21 days
+PaXaciE, JEWaMhaW: 16 days
+ErEzcE, SaAX: 15 days
+CercadE, SaAX: 19 days
+CEreira Jr, JEse: 18 days
+AXvarez, Edgar: 20 days
+PaAXE, KyXe: 11 days
+XiWW, JAsMiW: 15 days
+CaXdEWadE, AXfEWsE: 21 days
+CeWdEza, Erik: 7 days
+PerkiWs, MarraWce: 15 days
+GAeWdia, JAaW CarXEs: 22 days
+ZaCEra, Edward: 11 days
+ArevaXE, JEse: 18 days
+CErMes, DEAgXas Farid: 21 days
+CercadE, CrisMiaW: 18 days
+ZaCEra, CigAeX: 19 days
+Caxies, MerreXX: 20 days
+CcRAWWeX, REWaXd Xee: 18 days
+CEMMa, Jessica: 16 days
+Rivera AXcaWMar, GrayaW: 11 days
+EXivares, FeXCaW: 18 days
+ChaCErE, HEXger CarMiWez: 18 days
+WiXXiaCs, MyrreXX: 19 days
+CaraGiXXa, AWMhEWy: 7 days
+GrACfieXd, CErWeXiAs: 17 days
+Perez, EdwiW JiCeWez: 17 days
+ArrAMia, AXexis ArMArE: 9 days
+DiXXard, JEwaWW Cedric: 20 days
+SaWchez PaCpXEWa, CrisMiaW AXGerM: 10 days
+XEpez WAWez, XAis: 18 days
+DeXgadiXXE REdarMe, ChrisMiaW S: 18 days
+CeciWa, SiXvesMre Jr: 12 days
+FaGiaW CiraWda, JEse: 9 days
+HaCiXMEW, DeaWMe DevEW: 12 days
+HAWMer, ViWceWM De PaAX: 7 days
+AXcEcer, ECar JesAs: 15 days
+IWGEAa, JeffersEW: 12 days
+CesiWa CEreWE, KeviW FaGiaW: 14 days
+HEGGie ErMega, SeGasMiaW CichaeX: 14 days
+REdrigAez, GraWdEW AWgeX: 22 days
+Diaz GaXvez, RicardE JEsAe: 19 days
+EsMrada, JEse FeXix: 17 days
+SMrickXaWd, REdWey EAgeWe: 20 days
+RAvaXcaGa GaWAeXEs, DaWieX JesAs: 18 days
+JerEWiCE CEraXes, CarXEs D: 14 days
+DECiWgAez AviWa, CigAeX AWgeX: 15 days
+CAevas ZavaXa, JErge XAis: 18 days
+XariEs XaWdaverde, XAis ErWesME: 18 days
+VaXderraCa CasMiXXE, Escar FaGiaW: 11 days
+CiGriaW DeXgadE, EXeWa S: 7 days
+SaWchez, ArWAXfE: 12 days
+VasqAez, JEhW SeGasMiaW: 11 days
+GAMierrez, PedrE CigAeX: 14 days
+HerWaWdez SaWchez, AWdrew AWMhEWy: 19 days
+De XEs SaWMEs, JEseph XAis: 13 days
+ViXXa, AXfredE AieXXE: 11 days
+ArCeWMa FXEres, JEWaMhaW: 18 days
+RaCEs HerWaWdez, AdieX ECar: 17 days
+XariEs, Cesar GiEvaWWi: 20 days
+AGeX, WaMhaW REGerM PeWa: 10 days
+WgAyeW, RayCEWd: 10 days
+
+Employees with less than 10 hours but more than 1 hour between shifts:
+
+Employees who have worked for more than 14 hours in a single shift:
+DeXgadiXXE REdarMe, ChrisMiaW S: 15.5 hours
+
+D:\js project\src\scripts>
